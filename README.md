@@ -53,7 +53,7 @@ Delete Part:  <br/>
 <br />
 <br />
 Add Product:  <br/>
-<img src="https://imgur.com/tGQDpIH.png" height="100%" width="100%" alt="Add Product"/>
+<img src="https://imgur.com/tGQDpIH.png" height="80%" width="80%" alt="Add Product"/>
 <br />
 <br />
 On the right side of the add product form, there are two different parts tables. The top parts table displays all parts. Users should select a part and
@@ -61,7 +61,23 @@ click the add button to add the part to the second parts table. The bottom parts
 <br />
 <br />
 Add Parts to the Product:  <br/>
-<img src="https://imgur.com/h1oq5eT.png" height="100%" width="10%" alt="Adding Parts to Product"/>
+<img src="https://imgur.com/h1oq5eT.png" height="80%" width="80%" alt="Adding Parts to Product"/>
+<br />
+<br />
+Products can be modified by selecting a product in the product table and clicking the modify button below the product table.
+<br />
+<br />
+Update Product:  <br/>
+<img src="https://imgur.com/xBNYA1T.png" height="80%" width="80%" alt="Update Product"/>
+<br />
+<br />
+Products can be deleted by selecting a product in the products table and clicking the delete button below the products table. Note that all associated parts must be removed before a product can be deleted.
+<br />
+<br />
+Delete Product:  <br/>
+<img src="https://imgur.com/3aaKqWd.png" height="100%" width="100%" alt="Delete Product"/>
+<br />
+<br />
 </p>
 
 <!--
