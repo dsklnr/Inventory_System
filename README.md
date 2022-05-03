@@ -35,31 +35,34 @@ Add a New In-House Part:  <br/>
 <br />
 <br />
 Add an Outsourced Part: <br/>
-<img src="https://imgur.com/V5SgYm1.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/V5SgYm1.png" height="50%" width="50%" alt="Add Outsourced Part"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Parts can be modified by selecting a part in the parts table and clicking the modify button below the parts table.
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Modify a Part  <br/>
+<img src="https://imgur.com/P1IYsrB.png" height="50%" width="50%" alt="Modify Part"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Parts can be deleted by selecting a part in the parts table and clicking the delete button below the parts table.
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Delete Part:  <br/>
+<img src="https://imgur.com/BWLHb1T.png" height="100%" width="100%" alt="Delete Part"/>
+<br />
+<br />
+Add Product:  <br/>
+<img src="https://imgur.com/tGQDpIH.png" height="100%" width="100%" alt="Add Product"/>
+<br />
+<br />
+On the right side of the add product form, there are two different parts tables. The top parts table displays all parts. Users should select a part and
+click the add button to add the part to the second parts table. The bottom parts table displays a list of all parts required to create the product.
+<br />
+<br />
+Add Parts to the Product:  <br/>
+<img src="https://imgur.com/h1oq5eT.png" height="100%" width="10%" alt="Adding Parts to Product"/>
 </p>
 
 <!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+ ```diffd
